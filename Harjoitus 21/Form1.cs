@@ -9,7 +9,7 @@ namespace Harjoitus_21
 
         private void vaihdaBT_Click(object sender, EventArgs e)
         {
-            otsikkoLB.Text = "Heippa maailma";
+            otsikkoLB.Text = "Heippa Ari!";
         }
     }
 }
